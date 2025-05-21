@@ -197,7 +197,7 @@ When prompted, provide:
 
 **IMPORTANT:** From the response, record the following information:
 1. The development API key (will look like `gAAAAABo...`)
-2. The OpenAPI spec URL (will look like `https://api.gibsonai.com/-/openapi/<hash>`)
+2. The OpenAPI spec URL (will look like `https://api.gibsonai.com/v1/-/openapi/<hash>`)
 
 You will need these in the next step.
 

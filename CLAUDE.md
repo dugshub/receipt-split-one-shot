@@ -36,7 +36,9 @@ Additionally, assume you've made mistakes after each major milestone and check a
 - Use the GibsonAI starter app directly 
 - We will manaully setup the frontend by cloning the GibsonAI starter app
 - Provide the API key and OpenAPI spec URL when prompted
-- NOTE: The GibsonAI MCP will return the Docs URL without including the /v1/ prefix. MAKE SURE YOU ADD IT. A correct example would be: `https://api.gibsonai.com/v1/-/openapi/<hash>`
+- NOTE: The GibsonAI MCP will return the Docs URL without including the /v1/ prefix. 
+
+IMPORTANT: MAKE SURE YOU ADD IT. A correct example would be: `https://api.gibsonai.com/v1/-/openapi/<hash>`
 - DO NOT create a separate Next.js app - use the starter app as the foundation
 - Customization of starter app:
   - Keep all API client integration and authentication framework
